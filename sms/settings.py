@@ -1,2 +1,0 @@
-username=arun
-password=1231232
